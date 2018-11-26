@@ -1,0 +1,7 @@
+{
+  "name": "mercari-client",
+  "version": "1.0.0",
+  "description": "Simulate Mercari API interaction by scraping web pages",
+  "author": "Adam Gauthier",
+  "main": "./src/MercariClient.mjs"
+}
