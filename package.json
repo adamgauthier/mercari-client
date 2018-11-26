@@ -4,6 +4,11 @@
   "description": "Simulate Mercari API interaction by scraping web pages",
   "author": "Adam Gauthier",
   "main": "./src/MercariClient.mjs",
+  "dependencies": {
+    "jsdom": "^13.0.0",
+    "mercari-parser": "git+https://github.com/louistio/mercari-parser.git",
+    "node-fetch": "^2.3.0"
+  },
   "devDependencies": {
     "eslint": "^5.9.0"
   }
