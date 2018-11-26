@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Simulate Mercari API interaction by scraping web pages",
   "author": "Adam Gauthier",
-  "main": "./src/MercariClient.mjs"
+  "main": "./src/MercariClient.mjs",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
 }
