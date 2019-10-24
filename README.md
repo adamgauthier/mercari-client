@@ -19,20 +19,18 @@ const item = await client.getItem('m000000');
 Resulting `item` will look like:
 ```json
 {
+  "version": "2",
   "id": "...",
   "title": "...",
   "description": "...",
   "price": "...",
-  "location": "...",
+  "shipping": "...",
   "date": "...",
-  "images": [
-    "...",
-    "..."
-  ],
+  "imageUrl": "https://(...).jpg",
   "seller": {
     "userId": "...",
     "username": "...",
-    "profile": "https://.../"
+    "profile": "https://(...)/"
   }
 }
 ```
