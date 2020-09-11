@@ -7,7 +7,7 @@
   "dependencies": {
     "jsdom": "^13.2.0",
     "mercari-parser": "git+https://github.com/louistio/mercari-parser.git",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "devDependencies": {
     "eslint": "^6.5.1"
