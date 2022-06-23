@@ -5,7 +5,7 @@
   "author": "Adam Gauthier",
   "main": "./src/MercariClient.mjs",
   "dependencies": {
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "mercari-parser": "git+https://github.com/louistio/mercari-parser.git",
     "node-fetch": "^2.6.0"
   },
